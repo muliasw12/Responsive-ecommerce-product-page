@@ -32,8 +32,8 @@ Users should be able to:
 ![](./screenshot-mobile.png)
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
-- Live Site URL: [Github pages](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://responsive-ecommerce-product-page.vercel.app/)
+- Live Site URL: [Github pages](https://github.com/muliasw12/Responsive-ecommerce-product-page)
 
 ## My process
 
@@ -46,5 +46,5 @@ Users should be able to:
 - Mobile-first workflow
 ## Author
 
-- Linked In - [Mulia](https://www.linkedin.com/in/mulia-sujiastuti/)
+- Linked In - [Mulia Sujiastuti Wahyono](https://www.linkedin.com/in/mulia-sujiastuti/)
 - Frontend Mentor - [@muliasw12](https://www.frontendmentor.io/profile/muliasw12)
