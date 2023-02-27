@@ -33,6 +33,7 @@ Users should be able to:
 - Live Site URL: [Github pages](https://github.com/muliasw12/Responsive-ecommerce-product-page)
 
 ## My process
+- Now I can make a ecommerce landing page using DOM manipulation
 
 ### Built with
 
