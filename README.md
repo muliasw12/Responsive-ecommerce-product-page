@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot-desktop.png)
-![](./screenshot-mobile.png)
+
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://responsive-ecommerce-product-page.vercel.app/)
