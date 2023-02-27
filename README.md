@@ -26,9 +26,6 @@ Users should be able to:
 - Add items to the cart
 - View the cart and remove items from it
 
-### Screenshot
-
-![](./screenshot-desktop.png)
 
 ### Links
 
